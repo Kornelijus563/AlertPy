@@ -1,0 +1,12 @@
+[project]
+name = "alertpy"
+version = "0.1.0"
+description = "A simple alert package"
+authors = [
+    { name = "Твоё имя", email = "email@example.com" }
+]
+dependencies = []
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"ы
